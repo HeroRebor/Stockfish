@@ -3,7 +3,7 @@
 mynameisehatlol 
 here the code
 create file name makefish.sh and paste 
-``
+```
 #!/bin/bash
 # makefish.sh
 
@@ -44,7 +44,7 @@ make strip
 mv stockfish.exe ../../Stockfish-Mega
 make clean
 cd
-``
+```
 after that step written here https://github.com/ppigazzini/fishtest/wiki/Building-Stockfish-on-Windows#building-stockfish-with-gcc
 ____________________________________________________________________________________________________________
 [![Build Status](https://github.com/official-stockfish/Stockfish/actions/workflows/stockfish.yml/badge.svg)](https://github.com/official-stockfish/Stockfish/actions)
