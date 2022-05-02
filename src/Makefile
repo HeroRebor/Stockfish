@@ -41,7 +41,7 @@ endif
 ifeq ($(target_windows),yes)
 	EXE = stockfish.exe
 else
-	EXE = stockfish
+	EXE = Stockfish Mega
 endif
 
 ### Installation dir definitions
